@@ -18,7 +18,7 @@ Programa exclusivo, criado junto com a Roketseat para aprendizado de tecnologias
 <br>
 
 <p align="center">
-  <img alt="projetoDEVLINKSBRUNO" src=".github/preview.PNG" width="100%">
+  <img alt="projetoDEVLINKSBRUNO" src="./assets/assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
