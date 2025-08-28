@@ -1,7 +1,7 @@
 <h1 align="center"> DEVLINKBRUNO </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Programa exclusivo, criado junto com a Roketseat para aprendizado de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projetoDEVLINKSBRUNO" src=".github/preview.jpg" width="100%">
+  <img alt="projetoDEVLINKSBRUNO" src=".github/preview.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
- Figma
+- Figma
 
 ## 💻 Projeto
 
